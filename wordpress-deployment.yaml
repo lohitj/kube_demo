@@ -1,5 +1,3 @@
-application/wordpress/wordpress-deployment.yaml 
-
 apiVersion: v1
 kind: Service
 metadata:
